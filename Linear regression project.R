@@ -1,5 +1,5 @@
 #reading the csv file
-data<-read.csv(c("C:/Users/dell/Desktop/Marketing_Data.csv"))
+data<-read.csv(c("C:/Users/akshg/Desktop/linear-regression-project/Marketing_Data.csv"))
 print(data)
 
 set.seed(123)#random sampling
@@ -16,6 +16,14 @@ testing_dataset <- c(data[-a_sample, ])
 #making the model
 model <-lm(sales~.,data=training_dataset)
 print(model)
+
+# computing correlation matrix
+library(corrplot)
+cor_data = cor(data)
+print("Correlation matrix")
+print(cor_data)
+corrplot(cor_data, method="circle")
+corrplot(cor_data, method="number")
 
 
 #plotting all the three variables 
