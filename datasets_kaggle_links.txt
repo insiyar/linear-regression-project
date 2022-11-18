@@ -1,0 +1,14 @@
+https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website
+https://www.kaggle.com/datasets/faezehghaffari/the-rocket-propellant-data
+https://www.kaggle.com/datasets/yasserh/song-popularity-dataset
+https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+https://www.kaggle.com/datasets/abhinand05/crop-production-in-india
+https://www.kaggle.com/datasets/dipeshmalhotra/air-pollution-in-delhi-5-sensors-5-years
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep
+https://www.kaggle.com/datasets/ohiedulhaquemdasad/fuel-consumption-based-on-hp-linear-regression
+https://www.kaggle.com/datasets/somyaagarwal69/gold-forecasting
+
+https://www.kaggle.com/datasets/fayejavad/marketing-linear-multiple-regression
+https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction
+https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression
